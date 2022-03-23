@@ -5,11 +5,11 @@ RecyclerView swipe menu item.
 还包括点击，长按事件。
 
 
-![效果](img/screeshot1.png)  
+![效果](img/screenshot1.png "效果图1")  
 
 左边滑动后。  
 
-![效果](img/screeshot2.png)  
+![效果](img/screenshot2.png "效果图2")  
 
 使用方法：
 1.引入gradle依赖：
